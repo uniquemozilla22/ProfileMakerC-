@@ -1,0 +1,10 @@
+C:\Users\unique\source\repos\Profiler\Profiler\bin\Debug\Profiler.exe.config
+C:\Users\unique\source\repos\Profiler\Profiler\bin\Debug\Profiler.exe
+C:\Users\unique\source\repos\Profiler\Profiler\bin\Debug\Profiler.pdb
+C:\Users\unique\source\repos\Profiler\Profiler\obj\Debug\Profiler.csprojAssemblyReference.cache
+C:\Users\unique\source\repos\Profiler\Profiler\obj\Debug\Profiler.Form1.resources
+C:\Users\unique\source\repos\Profiler\Profiler\obj\Debug\Profiler.Properties.Resources.resources
+C:\Users\unique\source\repos\Profiler\Profiler\obj\Debug\Profiler.csproj.GenerateResource.cache
+C:\Users\unique\source\repos\Profiler\Profiler\obj\Debug\Profiler.csproj.CoreCompileInputs.cache
+C:\Users\unique\source\repos\Profiler\Profiler\obj\Debug\Profiler.exe
+C:\Users\unique\source\repos\Profiler\Profiler\obj\Debug\Profiler.pdb
